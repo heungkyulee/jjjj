@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "LiFoli",
+    "slug": "LiFoli",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "LiFoli"
+}

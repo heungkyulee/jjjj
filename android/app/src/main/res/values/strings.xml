@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LiFoli</string>
++   <string name="kakao_app_key">491703573fe7147c055f12af44ef97b3</string>
+</resources>
